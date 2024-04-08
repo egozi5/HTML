@@ -1,5 +1,3 @@
-# HTML
-birthday project
 <!DOCTYPE html>
 <body>
     <title><h1>It's My Birthday</h1></title>
